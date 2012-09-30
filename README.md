@@ -1,4 +1,4 @@
 ruby4rails
 ==========
 
-ruby4rails study note
+ruby for rails学习笔记
